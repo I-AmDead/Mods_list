@@ -24,6 +24,25 @@
       "enabled": true,
       "providesLauncherUpdates": false
     },
+  
+    {
+      "id": "OGSR GA",
+      "name": "OGSR Gunslinger Addon",
+      "description": "OGSR:GA - это дальнейшее развитие OGSR Mod/OGSE 0.6.9.3",
+      "repository": "I-AmDead/OGSR_Assets",
+      "releaseTag": "Release",
+      "imageUrl": "https://i.ibb.co/QKrj2jZ/ss-user-11-25-22-16-46-50-l01-escape.png",
+      "screenshots": [
+        "https://i.ibb.co/QKrj2jZ/ss-user-11-25-22-16-46-50-l01-escape.png",
+        "https://i.ibb.co/L1QKXsX/ss-user-03-15-22-06-34-56-l01-escape.png",
+        "https://i.ibb.co/vcgDX52/ss-user-02-18-22-06-57-12-l07-military.png",
+        "https://i.ibb.co/M5mL71X/ss-04-05-22-23-46-55-l05-bar.png"
+      ],
+      "executablePath": "bin_x64/xrEngine.exe",
+      "isPublic": true,
+      "enabled": true,
+      "providesLauncherUpdates": false
+    },
 
     {
       "id": "NS 4",
