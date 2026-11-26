@@ -17,8 +17,8 @@
     },
 
     {
-      "id": "Test Trails",
-      "name": "Test Trails",
+      "id": "Test prj",
+      "name": "Test prj",
       "repository": "I-AmDead/Test_project",
       "releaseTag": "Release",
       "executablePath": "bin_x64/xrEngine.exe",
