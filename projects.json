@@ -48,7 +48,7 @@
       "name": "Survivor OGSR",
       "description": "Сюжет игры рассказывает историю о военном инженере, который оказался в Зоне отчуждения при случайных обстоятельствах, и теперь желает скорее выбраться за периметр.",
       "repository": "flvtlxne/Survivor-OGSR",
-      "releaseTag": "Release",
+      "releaseTag": "base",
       "imageUrl": "https://pp.userapi.com/c824503/v824503134/96050/AL0SpLPGnec.jpg",
       "executablePath": "bin_x64/xrEngine.exe",
       "isPublic": true,
