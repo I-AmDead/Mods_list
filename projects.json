@@ -2,7 +2,7 @@
   "launcher": {
     "repository": "I-AmDead/Mods_list",
     "releaseTag": "Launcher",
-    "enabled": false
+    "enabled": true
   },
 
   "projects": [
