@@ -12,7 +12,7 @@
       "description": "Переработка глобального сюжетного мода на Тень Чернобыля.\n История Стрелка до событий «Тени Чернобыля».\n Попав в Зону вместе с братом по прозвищу Капитан, он оказывается разлучён с ним после выброса.\n Спасённый Лесником, Стрелок отправляется на поиски брата и постепенно узнаёт больше о своём появлении в Зоне.",
       "repository": "I-AmDead/ST_Assets",
       "releaseTag": "Release",
-      "imageUrl": "https://raw.githubusercontent.com/I-AmDead/Mods_list/main/Mods/SecretTrails.png",
+      "imageUrl": "https://raw.githubusercontent.com/I-AmDead/Mods_list/main/Mods/Secret_Trails.png",
       "screenshots": [
         "https://raw.githubusercontent.com/I-AmDead/ST_Assets/main/screenshots/1.png",
         "https://raw.githubusercontent.com/I-AmDead/ST_Assets/main/screenshots/2.png",
@@ -32,12 +32,13 @@
       "description": "OGSR:GA - это дальнейшее развитие OGSR Mod/OGSE 0.6.9.3",
       "repository": "I-AmDead/OGSR_Assets",
       "releaseTag": "Release",
-      "imageUrl": "https://i.ibb.co/QKrj2jZ/ss-user-11-25-22-16-46-50-l01-escape.png",
+      "imageUrl": "https://raw.githubusercontent.com/I-AmDead/Mods_list/main/Mods/OGSR_GA.png",
       "screenshots": [
-        "https://i.ibb.co/QKrj2jZ/ss-user-11-25-22-16-46-50-l01-escape.png",
-        "https://i.ibb.co/L1QKXsX/ss-user-03-15-22-06-34-56-l01-escape.png",
-        "https://i.ibb.co/vcgDX52/ss-user-02-18-22-06-57-12-l07-military.png",
-        "https://i.ibb.co/M5mL71X/ss-04-05-22-23-46-55-l05-bar.png"
+        "https://raw.githubusercontent.com/I-AmDead/OGSR_Assets/main/screenshots/1.png",
+        "https://raw.githubusercontent.com/I-AmDead/OGSR_Assets/main/screenshots/2.png",
+        "https://raw.githubusercontent.com/I-AmDead/OGSR_Assets/main/screenshots/3.png",
+        "https://raw.githubusercontent.com/I-AmDead/OGSR_Assets/main/screenshots/4.png",
+        "https://raw.githubusercontent.com/I-AmDead/OGSR_Assets/main/screenshots/5.png"
       ],
       "executablePath": "bin_x64/xrEngine.exe",
       "isPublic": true,
@@ -69,7 +70,7 @@
       "description": "Сюжет игры рассказывает историю о военном инженере, который оказался в Зоне отчуждения при случайных обстоятельствах, и теперь желает скорее выбраться за периметр.",
       "repository": "flvtlxne/Survivor-OGSR",
       "releaseTag": "Release",
-      "imageUrl": "https://pp.userapi.com/c824503/v824503134/96050/AL0SpLPGnec.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/I-AmDead/Mods_list/main/Mods/Survivor.png",
       "executablePath": "bin_x64/xrEngine.exe",
       "isPublic": true,
       "enabled": true,
