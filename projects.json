@@ -14,7 +14,9 @@
       "releaseTag": "Release",
       "imageUrl": "https://raw.githubusercontent.com/I-AmDead/Mods_list/main/Mods/SecretTrails.png",
       "screenshots": [
-        "https://cs16.pikabu.ru/s/2026/01/22/12/zkxsifwf_lg.jpg"
+        "https://cs16.pikabu.ru/s/2026/01/22/12/zkxsifwf_lg.jpg",
+        "https://sun9-34.userapi.com/s/v1/ig2/_yg4-p2zDqKD9djBkFOrVsdGNjssfPfGszz9ozmE-lWjFEFFCxEUUj5mWPYSK4tEE3u-3U5gl0F6VypWfMJnWIxI.jpg",
+        "https://sun9-78.userapi.com/s/v1/ig2/enQktbaIGFTzVd3jjvyAMYhTB3-X495DWXM4ZgqjagiE3-oq7ba4Li5xWW1DHLRiYGW6n59YTLzXKlWV8ZjM69aH.jpg"
       ],
       "executablePath": "bin_x64/xrEngine.exe",
       "isPublic": true,
@@ -30,7 +32,8 @@
       "imageUrl": "https://raw.githubusercontent.com/I-AmDead/Mods_list/main/Mods/NS4.png",
       "screenshots": [
         "https://e.radikal.host/2026/01/12/NS4_2025.jpg",
-        "https://e.radikal.host/2026/01/12/ss_antre_01-08-26_23-58-51_l12_stancia.jpg"
+        "https://e.radikal.host/2026/01/12/ss_antre_01-08-26_23-58-51_l12_stancia.jpg",
+        "https://e.radikal.host/2026/01/12/ss_antre_01-11-26_14-58-23_l01_escape.md.jpg"
       ],
       "executablePath": "bin_x64/xrEngine.exe",
       "isPublic": true,
