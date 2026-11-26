@@ -39,7 +39,7 @@
       ],
       "executablePath": "bin_x64/xrEngine.exe",
       "isPublic": true,
-      "enabled": false,
+      "enabled": true,
       "providesLauncherUpdates": false
     }
   ]
