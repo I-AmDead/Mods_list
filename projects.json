@@ -4,7 +4,7 @@
     "releaseTag": "Launcher",
     "enabled": false
   },
-  
+
   "projects": [
     {
       "id": "Secret Trails",
@@ -13,6 +13,10 @@
       "repository": "I-AmDead/ST_Assets",
       "releaseTag": "Release",
       "imageUrl": "https://raw.githubusercontent.com/I-AmDead/Mods_list/main/Mods/SecretTrails.png",
+      "screenshots": [
+        "https://адрес-первого-скриншота",
+        "https://адрес-второго-скриншота"
+      ],
       "executablePath": "bin_x64/xrEngine.exe",
       "isPublic": true,
       "providesLauncherUpdates": false
@@ -25,6 +29,12 @@
       "repository": "I-AmDead/NS4_Assets",
       "releaseTag": "Release",
       "imageUrl": "https://raw.githubusercontent.com/I-AmDead/Mods_list/main/Mods/NS4.png",
+      "screenshots": [
+        "https://radikal.host/i/BVZ3TT",
+        "https://radikal.host/i/BVZC14",
+        "https://radikal.host/i/BVZqS1",
+        "https://radikal.host/i/BVZxBP"
+      ],
       "executablePath": "bin_x64/xrEngine.exe",
       "isPublic": true,
       "providesLauncherUpdates": false
