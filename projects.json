@@ -30,10 +30,7 @@
       "releaseTag": "Release",
       "imageUrl": "https://raw.githubusercontent.com/I-AmDead/Mods_list/main/Mods/NS4.png",
       "screenshots": [
-        "https://e.radikal.host/2026/01/12/NS4_2025.jpg",
-        "https://radikal.host/i/BVZC14",
-        "https://radikal.host/i/BVZqS1",
-        "https://radikal.host/i/BVZxBP"
+        "https://e.radikal.host/2026/01/12/NS4_2025.jpg"
       ],
       "executablePath": "bin_x64/xrEngine.exe",
       "isPublic": true,
