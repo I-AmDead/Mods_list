@@ -1,0 +1,10 @@
+{
+  "articles": [
+    {
+      "category": "Launcher update",
+      "title": "New Projects and Updated News",
+      "summary": "The launcher now has a projects home page, and browsing and styling news is easier.",
+      "content": "• Added a home page with cards for available projects\n• The project catalog refreshes every time the launcher starts\n• Cards can display images specified in projects.json\n• News without an imageUrl now uses a themed default cover\n• If the specified cover cannot be loaded, the news item still appears with a fallback image"
+    }
+  ]
+}
