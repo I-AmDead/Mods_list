@@ -25,6 +25,15 @@
       "providesLauncherUpdates": false
     },
     {
+      "id": "SFZ",
+      "repository": "I-AmDead/SFZ_Assets",
+      "releaseTag": "Release",
+      "executablePath": "bin_x64/xrEngine.exe",
+      "isPublic": true,
+      "enabled": true,
+      "providesLauncherUpdates": false
+    },
+    {
       "id": "NS 4",
       "repository": "I-AmDead/NS4_Assets",
       "releaseTag": "Release",
